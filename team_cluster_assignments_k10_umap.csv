@@ -1,0 +1,313 @@
+﻿team_id,team_name,cluster
+1,Arsenal,8
+22,Leicester City,4
+23,Watford,7
+24,Liverpool,8
+25,Southampton,4
+26,Swansea City,1
+27,West Bromwich Albion,4
+28,AFC Bournemouth,8
+29,Everton,0
+30,Stoke City,6
+31,Crystal Palace,4
+33,Chelsea,8
+36,Manchester City,8
+37,Newcastle United,1
+38,Tottenham Hotspur,8
+39,Manchester United,8
+40,West Ham United,6
+41,Sunderland,9
+46,Wolverhampton Wanderers,9
+47,Middlesbrough,8
+54,Birmingham City,1
+55,Fulham,9
+56,Norwich City,1
+59,Aston Villa,6
+75,Charlton Athletic,4
+98,Blackburn Rovers,1
+101,Leeds United,9
+105,Portsmouth,9
+129,AS Monaco,7
+130,Toulouse,7
+131,Paris Saint-Germain,0
+133,Troyes,1
+134,Rennes,8
+135,Saint-Étienne,7
+136,OGC Nice,0
+137,Lyon,8
+138,Strasbourg,0
+139,Montpellier,7
+140,Caen,4
+141,Metz,6
+142,Guingamp,4
+143,Lille,7
+144,Nantes,1
+145,Angers,7
+146,Bordeaux,8
+147,Marseille,2
+152,Clermont Foot,0
+153,Stade Brestois,7
+156,Stade de Reims,1
+158,AC Ajaccio,6
+160,Gazélec Ajaccio,4
+165,Lorient,7
+167,Auxerre,6
+168,Lens,6
+169,Bayern Munich,0
+171,Hamburger SV,4
+172,Augsburg,4
+173,Hertha Berlin,5
+174,VfB Stuttgart,7
+175,Hoffenheim,3
+176,Werder Bremen,4
+177,FSV Mainz 05,4
+178,Hannover 96,1
+179,Wolfsburg,5
+180,Borussia Dortmund,8
+181,Schalke 04,5
+182,RB Leipzig,0
+183,Freiburg,6
+184,Eintracht Frankfurt,4
+185,Borussia Mönchengladbach,8
+186,FC Köln,4
+189,Ingolstadt,1
+190,Union Berlin,6
+201,FC Heidenheim,3
+205,Leganés,3
+206,Deportivo Alavés,3
+207,Valencia,3
+208,Las Palmas,0
+209,Celta Vigo,0
+210,Real Sociedad,7
+211,Girona,3
+212,Atlético Madrid,7
+213,Sevilla,5
+214,Espanyol,3
+215,Athletic Club,3
+216,Getafe,1
+217,Barcelona,0
+218,Real Betis,3
+219,RC Deportivo La Coruña,1
+220,Real Madrid,0
+221,Levante UD,3
+222,Villarreal,3
+223,Málaga,4
+224,Juventus,0
+226,Hellas Verona,4
+227,Napoli,8
+228,Atalanta,7
+229,AS Roma,8
+230,Udinese,4
+231,Chievo,4
+232,Sassuolo,7
+233,Genoa,7
+234,Sampdoria,0
+236,Lazio,7
+238,Inter Milan,8
+239,Fiorentina,0
+240,Bologna,6
+241,Torino,3
+243,AC Milan,7
+256,FC Porto,4
+290,Empoli,8
+291,Frosinone,4
+322,Eibar,4
+328,Bolton Wanderers,4
+360,Rayo Vallecano,7
+373,Córdoba CF,3
+387,New York Red Bulls,8
+395,Real Zaragoza,3
+403,Almería,3
+422,Osasuna,3
+444,CD Numancia de Soria,9
+488,Seattle Sounders,9
+489,Cincinnati,3
+552,Cádiz,3
+575,Toronto FC,0
+608,Albacete,3
+627,Tenerife,3
+746,Manchester City WFC,2
+749,Tottenham Hotspur Women,2
+759,Washington Spirit,1
+760,OL Reign,2
+761,Chicago Red Stars,4
+762,Houston Dash,4
+763,NJ/NY Gotham FC,3
+764,Orlando Pride,2
+765,Portland Thorns,2
+766,North Carolina Courage,2
+767,Utah Royals,2
+768,England,0
+769,Colombia,5
+770,Germany,0
+771,France,0
+772,Spain,8
+773,Switzerland,0
+774,Egypt,5
+775,Nigeria,5
+776,Denmark,0
+777,Tunisia,5
+778,Japan,0
+779,Argentina,0
+780,Portugal,0
+781,Brazil,0
+782,Belgium,0
+783,Uruguay,5
+784,Peru,6
+785,Croatia,5
+786,Serbia,0
+787,Senegal,5
+788,Morocco,5
+789,Poland,6
+790,Sweden,3
+791,South Korea,5
+792,Australia,6
+793,Iceland,9
+794,Mexico,8
+795,Costa Rica,6
+796,Russia,1
+797,Iran,4
+798,Panama,6
+799,Saudi Arabia,5
+806,Ajax,9
+851,Netherlands Women's,2
+852,Norway Women's,2
+853,Denmark Women's,2
+854,Belgium Women's,9
+855,Italy Women's,2
+857,Germany Women's,2
+858,Sweden Women's,2
+859,Austria Women's,2
+860,Switzerland Women's,2
+861,France Women's,2
+862,Iceland Women's,2
+863,Spain Women's,2
+864,Portugal Women's,2
+865,England Women's,2
+866,Scotland Women's,2
+868,Bochum,6
+872,Darmstadt 98,4
+901,Real Valladolid,3
+902,Huesca,6
+904,Bayer Leverkusen,8
+905,Romania,6
+906,Albania,6
+907,Wales,6
+908,Slovakia,6
+909,Turkey,0
+911,Ukraine,0
+912,Czech Republic,1
+914,Italy,0
+915,Austria,0
+916,Hungary,6
+919,LAFC,8
+920,WNT Finland,8
+941,Netherlands,0
+942,Scotland,6
+944,Slovenia,1
+952,Panathinaikos,9
+965,Brighton & Hove Albion WFC,1
+966,Liverpool WFC,1
+967,Everton LFC,2
+968,Arsenal WFC,2
+969,Birmingham City WFC,2
+970,Yeovil Town LFC,9
+971,Chelsea FCW,2
+972,West Ham United LFC,1
+973,Bristol City WFC,4
+974,Reading WFC,2
+1036,Gimnàstic Tarragona,3
+1041,Sporting Gijón,4
+1042,Elche,6
+1043,Mallorca,3
+1049,Granada,4
+1076,Juventus,9
+1106,Philippines Women's,9
+1107,Thailand Women's,9
+1203,Brazil Women's,2
+1204,Argentina Women's,4
+1205,Australia Women's,2
+1206,Canada Women's,2
+1207,China PR Women's,1
+1208,Cameroon Women's,4
+1209,Chile Women's,9
+1210,Japan Women's,2
+1211,Korea Republic Women's,7
+1212,Jamaica Women's,4
+1213,Nigeria Women's,4
+1214,United States Women's,2
+1215,New Zealand Women's,1
+1216,South Africa Women's,9
+1217,Racing Santander,3
+1218,Hércules,3
+1219,Xerez,3
+1220,Recreativo Huelva,3
+1230,Real Murcia CF,3
+1324,River Plate,9
+1328,Boca Juniors,9
+1475,Manchester United,2
+1683,Carpi,4
+1832,Costa Rica Women's,3
+1833,Canada,0
+1835,Finland,6
+1839,United States,2
+1938,Nashville SC,3
+1975,Inter Miami,0
+2021,Jamshedpur,4
+2138,Georgia,6
+2256,Palermo,4
+2305,Jamaica,9
+2355,Haiti Women's,1
+2358,North Macedonia,6
+2391,Morocco Women's,4
+2456,Wales,3
+2457,Northern Ireland,9
+2647,Aston Villa,1
+2721,German DR,9
+2722,Cameroon,5
+2735,NY Cosmos,9
+2736,Bastia,4
+3374,Côte d'Ivoire,5
+3562,Chile,8
+3563,Venezuela,8
+3564,Bolivia,6
+3565,Ecuador,8
+3566,Qatar,6
+3567,Paraguay,8
+4881,Congo DR,5
+4885,Ghana,5
+4892,Guinea,5
+4894,Guinea-Bissau,6
+4898,Algeria,8
+4901,Angola,5
+4921,Burkina Faso,5
+4924,Cape Verde Islands,5
+4930,Mali,8
+4932,Mauritania,4
+4934,Gambia,6
+4953,Tanzania,6
+4963,Zambia,6
+4976,South Africa,0
+4978,Mozambique,5
+4980,Namibia,7
+4992,Equatorial Guinea,8
+6045,Zambia Women's,4
+7282,ATK Mohun Bagan,8
+7283,Kerala Blasters,4
+7284,Bengaluru,8
+7285,NorthEast United,9
+7286,East Bengal,4
+7287,Mumbai City,8
+7288,Goa,8
+7289,Hyderabad,4
+7290,Chennaiyin,7
+7291,Odisha,4
+8070,Charlotte,8
+9763,Argentina U20,8
+16768,Republic of Ireland Women's,1
+16769,Vietnam Women's,9
+16802,Colombia Women's,1
+16803,Panama Women's,9
+17403,Soviet Union U20,9
+17469,Czechoslovakia,1
+29167,Poland Women's,9
